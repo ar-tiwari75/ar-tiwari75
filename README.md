@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-tiwari75" alt="ar-tiwari75" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development using ExpressJS**
 
 - 📫 How to reach me **adarshrtiwari9@gmail.com**
 
